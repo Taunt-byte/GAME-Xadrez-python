@@ -1,3 +1,3 @@
-# Clone do NETFLIX em REACTJS
+# Xadrez em python
  
-
+status: Em desenvolvimento inicial
